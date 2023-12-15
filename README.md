@@ -7,3 +7,7 @@ Ce projet contient les fichiers de base pour notre TP sur Git et GitHub. Il comp
 
 ## Date
 15/12/2023
+
+## Repartition
+Kasun a fait le ticket 2
+Daniela a fait le ticket 1
